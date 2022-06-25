@@ -23,5 +23,5 @@
 <h2> To run the program in local server use the following command </h2>
 <code>flask run</code>
 
-<h2>Project snapshots</h2>
+
 
