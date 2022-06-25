@@ -24,7 +24,4 @@
 <code>flask run</code>
 
 <h2>Project snapshots</h2>
-<h3>Home page</h3>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/58859056/134815335-24d095d8-21e3-48e6-ab42-75ca4a9e8535.png" width="100%"</img> 
-</div>
+
