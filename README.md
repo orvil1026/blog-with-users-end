@@ -19,9 +19,10 @@
 
 <h2>To Install project requrirements </h2>
 <code>pip install -r requirements.txt</code>
-
+<br>
 <code>
 set FLASK_APP=main.py</code>
+<br>
 <code>$env:FLASK_APP = "main.py"
 </code>
 
