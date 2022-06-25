@@ -21,9 +21,8 @@
 <code>pip install -r requirements.txt</code>
 
 <code>
-set FLASK_APP=main.py
-$env:FLASK_APP = "main.py"
-flask run
+set FLASK_APP=main.py</code>
+<code>$env:FLASK_APP = "main.py"
 </code>
 
 <h2> To run the program in local server use the following command </h2>
