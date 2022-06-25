@@ -20,6 +20,9 @@
 <h2>To Install project requrirements </h2>
 <code>pip install -r requirements.txt</code>
 <br>
+
+<h2>Set main.py as FLASK_APP </h2>
+
 <code>
 set FLASK_APP=main.py</code>
 <br>
