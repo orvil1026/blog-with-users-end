@@ -20,8 +20,16 @@
 <h2>To Install project requrirements </h2>
 <code>pip install -r requirements.txt</code>
 
+<code>
+set FLASK_APP=main.py
+$env:FLASK_APP = "main.py"
+flask run
+</code>
+
 <h2> To run the program in local server use the following command </h2>
 <code>flask run</code>
+
+
 
 
 
